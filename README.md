@@ -102,35 +102,6 @@ PIPELINE_ETL_PYTHON_SCRAPY/
 └── README.md            # Documentação
 ```
 
-## 📊 Notebook de Análise
+--
 
-O projeto inclui um notebook Jupyter (`notebook_analysis.ipynb`) que contém:
-
-- Análise exploratória detalhada dos dados
-- Visualizações avançadas usando Matplotlib e Seaborn
-- Insights sobre preços, marcas e avaliações
-- Correlações entre diferentes variáveis
-- Recomendações baseadas em dados
-
-Para acessar o notebook:
-1. Certifique-se de que o Jupyter está instalado: `pip install jupyter`
-2. Execute: `jupyter notebook src/notebooks/notebook_analysis.ipynb`
-
-## 🤝 Contribuição
-
-Contribuições são bem-vindas! Por favor, siga estas etapas:
-
-1. Faça um fork do projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/AmazingFeature`)
-3. Commit suas mudanças (`git commit -m 'Add some AmazingFeature'`)
-4. Push para a branch (`git push origin feature/AmazingFeature`)
-5. Abra um Pull Request
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-Desenvolvido com ❤️ por [Seu Nome]
 # Deivid-Bertapele-Pipeline-ETL-Python---Web-Scraping
