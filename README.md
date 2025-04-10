@@ -31,7 +31,7 @@ Este projeto implementa um pipeline ETL (Extract, Transform, Load) para coletar,
 - **Análise de Preços**: Comparação de preços por marca
 - **Avaliação de Satisfação**: Análise de reviews e ratings
 - **Filtros Inteligentes**: Filtragem de produtos por faixa de preço
-- **Análise Exploratória**: Notebook detalhado com insights e visualizações
+- **Análise Exploratória**: Detalhes com insights e visualizações
 
 ## 🛠️ Tecnologias
 
