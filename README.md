@@ -13,9 +13,7 @@ Um pipeline ETL completo para análise de notebooks no Mercado Livre, incluindo 
 - [Instalação](#-instalação)
 - [Uso](#-uso)
 - [Estrutura do Projeto](#-estrutura-do-projeto)
-- [Notebook de Análise](#-notebook-de-análise)
-- [Contribuição](#-contribuição)
-- [Licença](#-licença)
+
 
 ## 🌟 Visão Geral
 
