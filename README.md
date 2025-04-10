@@ -81,11 +81,6 @@ python src/transformLoad/main.py
 streamlit run src/dashboards/app.py
 ```
 
-4. Abra o notebook de análise:
-```bash
-jupyter notebook src/notebooks/notebook_analysis.ipynb
-```
-
 ## 📁 Estrutura do Projeto
 
 ```
