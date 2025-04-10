@@ -98,5 +98,11 @@ PIPELINE_ETL_PYTHON_SCRAPY/
 ├── requirements.txt      # Dependências do projeto
 └── README.md            # Documentação
 ```
+------
 
---
+![scrpay01](https://github.com/user-attachments/assets/f65fc04d-8130-43e8-a6d0-f2f4f96aae10)
+
+![scrpay02](https://github.com/user-attachments/assets/4e19721d-a9cd-4b95-9542-db6f335ab937)
+
+
+
