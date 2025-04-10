@@ -23,7 +23,6 @@ Este projeto implementa um pipeline ETL (Extract, Transform, Load) para coletar,
 - Transformação e limpeza dos dados
 - Armazenamento em banco de dados SQLite
 - Visualização interativa com Streamlit
-- Análise detalhada em Jupyter Notebook
 
 ## ✨ Funcionalidades
 
