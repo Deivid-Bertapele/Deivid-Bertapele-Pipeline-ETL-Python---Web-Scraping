@@ -103,5 +103,3 @@ PIPELINE_ETL_PYTHON_SCRAPY/
 ```
 
 --
-
-# Deivid-Bertapele-Pipeline-ETL-Python---Web-Scraping
